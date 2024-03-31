@@ -1,0 +1,28 @@
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\appsettings.Development.json
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\appsettings.json
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\API App.exe
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\API App.deps.json
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\API App.runtimeconfig.json
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\API App.runtimeconfig.dev.json
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\API App.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\ref\API App.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\API App.pdb
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.AssemblyInfoInputs.cache
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.AssemblyInfo.cs
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.csproj.CoreCompileInputs.cache
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.MvcApplicationPartsAssemblyInfo.cs
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.MvcApplicationPartsAssemblyInfo.cache
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\scopedcss\bundle\API App.styles.css
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\staticwebassets\API App.StaticWebAssets.Manifest.cache
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.RazorTargetAssemblyInfo.cache
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.csproj.CopyComplete
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\ref\API App.dll
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.pdb
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.genruntimeconfig.cache
+D:\Applications\UnitTesting\UnitTestApplication\API App\obj\Debug\net5.0\API App.csproj.AssemblyReference.cache

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qn0EyaE3jF8+Mk8VUVCER9ntCFMEDroZNcwQk5XHeJVcwU4ab3iJejHs93og58B5cFC/T5HK6RULNKVB2mR/8w==",
+  "success": true,
+  "projectFilePath": "D:\\Applications\\UnitTesting\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wrkga\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\wrkga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

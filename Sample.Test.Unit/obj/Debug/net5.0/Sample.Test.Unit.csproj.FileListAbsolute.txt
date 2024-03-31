@@ -1,0 +1,5 @@
+D:\Applications\UnitTesting\UnitTestApplication\Sample.Test.Unit\obj\Debug\net5.0\Sample.Test.Unit.csproj.AssemblyReference.cache
+D:\Applications\UnitTesting\UnitTestApplication\Sample.Test.Unit\obj\Debug\net5.0\Sample.Test.Unit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\UnitTesting\UnitTestApplication\Sample.Test.Unit\obj\Debug\net5.0\Sample.Test.Unit.AssemblyInfoInputs.cache
+D:\Applications\UnitTesting\UnitTestApplication\Sample.Test.Unit\obj\Debug\net5.0\Sample.Test.Unit.AssemblyInfo.cs
+D:\Applications\UnitTesting\UnitTestApplication\Sample.Test.Unit\obj\Debug\net5.0\Sample.Test.Unit.csproj.CoreCompileInputs.cache
