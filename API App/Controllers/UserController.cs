@@ -12,5 +12,11 @@ namespace API_App.Controllers
         {
             return View();
         }
+
+        public IActionResult Sample()
+        {
+            // add comment
+            return View();
+        }
     }
 }
