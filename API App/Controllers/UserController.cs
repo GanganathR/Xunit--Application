@@ -15,6 +15,12 @@ namespace API_App.Controllers
 
         public IActionResult Sample()
         {
+            // add comment 123
+            return View();
+        }
+
+        public IActionResult SampleChange()
+        {
             // add comment
             return View();
         }
