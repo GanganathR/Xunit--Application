@@ -22,7 +22,10 @@ namespace API_App.Controllers
         public IActionResult SampleChange()
         {
             // add comment
-            return View();
+            int i = 0;
+
+            return null;
         }
+
     }
 }
