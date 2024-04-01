@@ -15,6 +15,7 @@ namespace API_App.Controllers
 
         public IActionResult Sample()
         {
+            int values = 100;
             // add comment
             return View();
         }
